@@ -26,26 +26,42 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
 You can add Env parameters as
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+
 CLERK_SECRET_KEY=
+
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
 NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+
 NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
 
-POSTGRES_URL="
-POSTGRES_PRISMA_URL="
-POSTGRES_URL_NON_POOLING="
+POSTGRES_URL=
+
+POSTGRES_PRISMA_URL=
+
+POSTGRES_URL_NON_POOLING=
+
 POSTGRES_USER="default"
-POSTGRES_HOST="
-POSTGRES_PASSWORD="
-POSTGRES_DATABASE="
+
+POSTGRES_HOST=
+
+POSTGRES_PASSWORD=
+
+POSTGRES_DATABASE=
 
 UPLOADTHING_SECRET=
+
 UPLOADTHING_APP_ID=
 
 LIVEKIT_API_KEY=
+
 LIVEKIT_API_SECRET=
+
 NEXT_PUBLIC_LIVEKIT_URL=
 
 
